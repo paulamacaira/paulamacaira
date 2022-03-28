@@ -5,8 +5,8 @@
 
 -	👩‍💻 I'm a statistician/data scientist at [PUC-Rio, Brazil](http://www.ind.puc-rio.br/en/).
 - 📈 I mostly work on statistical learning, exploratory data analysis, time series and forecast.
-- 🐸 I am part of [FROG](https://sites.google.com/view/nois-pucrio).
-- 🩺 I am part of [NOIS](https://sites.google.com/view/nois-pucrio).
+- 🐸 I am part of [FROG](http://www.frog.ind.puc-rio.br/).
+- 🩺 I am part of [NOIS](http://www.nois.ind.puc-rio.br/).
 - 🧠 I am the owner of [R Descomplicado](https://www.instagram.com/r_descomplicado/).
 - 💻 I support [open science and open data](https://ropensci.org/).
 - 📄 I write [papers](https://sites.google.com/view/paulamacaira/publications).
